@@ -1,4 +1,4 @@
-package com.naver.interview;
+package com.naver.interview.legacy;
 
 import java.util.Random;
 import java.util.Scanner;
