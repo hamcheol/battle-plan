@@ -19,7 +19,6 @@ public class BattlePlanBullshitLegacy {
 		int initialLevel = random.nextInt(10);
 		System.out.println("You choose " + character);
 		System.out.println("Your initial level " + initialLevel);
-		
 
 		System.out.println("The dragon has come to the front...");
 		Integer staminaOfDragon = 100;
